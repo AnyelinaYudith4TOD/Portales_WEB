@@ -10,13 +10,13 @@ sesion y hacer tu formulario.​
 
 ## 🧪​TECNOLOGIAS UTILIZADAS🔬​
 
--HTML
+- HTML
 
--CSS
+- CSS
 
--JAVASCRIPT
+- JAVASCRIPT
 
--VISUAL ESTUDIO CODE
+- VISUAL ESTUDIO CODE
 
 ## IMAGENES DEL PROYECTO 
 
