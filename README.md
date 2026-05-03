@@ -20,9 +20,9 @@ sesion y hacer tu formulario.​
 
 ## IMAGENES DEL PROYECTO 
 
-<img width="1902" height="809" alt="CAPTURA 1" src="https://github.com/user-attachments/assets/8cddbe9e-47a0-4750-afa9-ec9f1856582c" /># PORTALES WEB Y RECURSOS MULTIMEDIA-RA
+<img width="1902" height="809" alt="CAPTURA 1" src="https://github.com/user-attachments/assets/8cddbe9e-47a0-4750-afa9-ec9f1856582c" />
 
-![Uploading image.png…]()
+![Uploading captura dos.png…]()
 
 
 ## ✂️​FUNCIONALIDADES🛠️
@@ -32,9 +32,9 @@ de pedido y esos datos llegan al correo del autor.
 
 ## ​📊​EJECUCION​📡​
 
--Descargar el archivo.
+- Descargar el archivo.
 
-- abrir index.html en tu navegador.
+- Abrir index.html en tu navegador.
 
 ## 🏅​AUTORES👩🏻‍🎓​
 
