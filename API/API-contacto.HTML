@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Pedido de Pastelería</title>
+  <link rel="stylesheet" href="/CSS/API-contacto.css">
+</head>
+
+<body>
+
+<div class="container">
+
+  <div class="card">
+
+    <p class="subtitle">Pastelería artesanal</p>
+    <h1>Hacer pedido</h1>
+
+    <div class="producto">
+      <span>Producto seleccionado</span>
+      <h2 id="Producto"></h2>
+    </div>
+
+    <form action="https://formspree.io/f/xzdylopq" method="POST">
+
+      <input type="hidden" name="producto" id="productoInput">
+
+      <input type="text" name="nombre" placeholder="Nombre completo" required>
+
+      <input type="email" name="email" placeholder="Correo electrónico" required>
+
+      <input type="tel" name="telefono" placeholder="Teléfono (opcional)">
+
+      <input type="date" name="fecha" required>
+
+      <textarea name="mensaje" placeholder="Detalles del pedido (sabor, diseño, etc.)"></textarea>
+
+      <button type="submit">Confirmar pedido</button>
+
+    </form>
+
+  </div>
+
+</div>
+
+</body>
+</html>
