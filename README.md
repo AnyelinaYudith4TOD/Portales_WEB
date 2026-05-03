@@ -1,4 +1,4 @@
-<img width="1902" height="809" alt="CAPTURA 1" src="https://github.com/user-attachments/assets/8cddbe9e-47a0-4750-afa9-ec9f1856582c" /># PORTALES WEB Y RECURSOS MULTIMEDIA-RA6
+# PORTALES WEB Y RECURSOS MULTIMEDIA-RA6
 # PROYECTO:📱​CONSUMO DE UNA API💻​
 ## 📝​DESCRIPCION✏️​
 Este proyecto se base en el uso de una api por medio de una pagina web , nuestra 
