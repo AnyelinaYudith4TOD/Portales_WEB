@@ -18,7 +18,13 @@ sesion y hacer tu formulario.​
 
 -VISUAL ESTUDIO CODE
 
-## IMAGENES DEL PROYECTO
+## IMAGENES DEL PROYECTO 
+
+![Uploading CAPTURA 1.png…]()
+
+
+![Uploading captura dos.png…]()
+
 
 
 ## ✂️​FUNCIONALIDADES🛠️
